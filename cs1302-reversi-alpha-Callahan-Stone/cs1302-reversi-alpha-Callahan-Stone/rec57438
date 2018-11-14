@@ -1,0 +1,42 @@
+cs1302-reversi-alpha-Callahan-Stone:
+total 172
+-rw-r--r--. 1 ugrad   279 Mar  3 12:35 Board.class
+-rw-r--r--. 1 ugrad   224 Feb 25 16:44 #Board.java#~
+-rw-r--r--. 1 ugrad   238 Feb 25 21:24 Board.java
+-rw-r--r--. 1 ugrad   224 Feb 25 16:44 Board.java~
+-rw-r--r--. 1 ugrad   248 Mar  3 12:35 ComputerPlayer.class
+-rw-r--r--. 1 ugrad   126 Mar  1 19:36 ComputerPlayer.java
+-rw-r--r--. 1 ugrad   111 Mar  1 19:34 ComputerPlayer.java~
+-rw-r--r--. 1 ugrad  1622 Mar  3 12:35 HumanPlayer.class
+-rw-r--r--. 1 ugrad  2004 Mar  1 23:32 HumanPlayer.java
+-rw-r--r--. 1 ugrad  1948 Mar  1 23:31 HumanPlayer.java~
+-rw-r--r--. 1 ugrad   488 Mar  3 13:01 INSTRUCTIONS.txt
+-rw-r--r--. 1 ugrad     0 Mar  3 12:36 INSTRUCTIONS.txt~
+-rw-r--r--. 1 ugrad   182 Mar  3 12:35 Move.class
+-rw-r--r--. 1 ugrad    35 Feb 25 20:44 Move.java
+-rw-r--r--. 1 ugrad    29 Feb 25 19:41 Move.java~
+-rw-r--r--. 1 ugrad   303 Mar  3 12:35 Player.class
+-rw-r--r--. 1 ugrad   186 Mar  1 18:52 Player.java
+-rw-r--r--. 1 ugrad   159 Feb 25 21:58 Player.java~
+-rw-r--r--. 1 ugrad   631 Mar  3 12:35 PlayerList.class
+-rw-r--r--. 1 ugrad   597 Mar  2 00:00 PlayerList.java
+-rw-r--r--. 1 ugrad   602 Mar  1 20:54 PlayerList.java~
+-rw-r--r--. 1 ugrad  1099 Mar  3 12:35 RandomComputerPlayer.class
+-rw-r--r--. 1 ugrad  1138 Mar  2 00:24 RandomComputerPlayer.java
+-rw-r--r--. 1 ugrad  1136 Mar  2 00:24 RandomComputerPlayer.java~
+-rw-r--r--. 1 ugrad     0 Mar  3 13:07 rec57438
+-rw-r--r--. 1 ugrad  1074 Mar  3 12:35 ReversiBoard.class
+-rw-r--r--. 1 ugrad   680 Feb 25 17:14 #ReversiBoard.java#~
+-rw-r--r--. 1 ugrad  1212 Mar  1 17:32 ReversiBoard.java
+-rw-r--r--. 1 ugrad  1184 Feb 25 21:22 ReversiBoard.java~
+-rw-r--r--. 1 ugrad  5322 Mar  3 12:35 Reversi.class
+-rw-r--r--. 1 ugrad 10690 Mar  2 00:19 Reversi.java
+-rw-r--r--. 1 ugrad 10898 Mar  2 00:15 Reversi.java~
+-rw-r--r--. 1 ugrad     0 Mar  1 13:48 #ReversiMove#
+-rw-r--r--. 1 ugrad   602 Mar  3 12:35 ReversiMove.class
+-rw-r--r--. 1 ugrad   768 Mar  1 20:12 ReversiMove.java
+-rw-r--r--. 1 ugrad   895 Mar  1 16:44 ReversiMove.java~
+-rw-r--r--. 1 ugrad  3059 Mar  3 12:35 ReversiTester.class
+-rw-r--r--. 1 ugrad  4262 Mar  1 21:52 ReversiTester.java
+-rw-r--r--. 1 ugrad  4194 Mar  1 20:56 ReversiTester.java~
+/home/ugrads/callahan/cs1302-reversi-alpha-Callahan-Stone/cs1302-reversi-alpha-Callahan-Stone:/home/work/cs1302a
